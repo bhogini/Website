@@ -1,0 +1,42 @@
+.background{
+    background-image: url("C:/Users/bchinmayee/Desktop/DD/Website/Exercise Files - Web Essentials/Project 1 - Restaurant/background-adare-restaurant.jpg");
+   
+}
+.styling{
+    margin-left: 680px;
+    margin-right: 600px;
+}
+.heading{
+    background-color: #9c9c9c;    /* transparent color code = #CCFF0000 */
+    padding-left: 50px;
+    padding-right: 50px;
+    display: -webkit-inline-box;
+}
+.header{
+    margin: 30px 350px 10px 420px;
+}
+.class1{
+    color: ghostwhite;
+    padding: 0px 20px;
+}
+
+.class2{
+    font-size: 100px;
+    text-align: center;
+    
+}
+
+.class3{
+    font-size: 20px;
+    text-align: center;
+    font-family: sans-serif;
+}
+.underline{
+    text-decoration: underline;
+    padding-top: 15px;
+    font-size: 15px;
+}
+
+.centring{
+    padding: 0px 420px;
+}
