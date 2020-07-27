@@ -1,5 +1,5 @@
 .background{
-    background-image: image("background-adare-restaurant.jpg");
+    background-image: url("background-adare-restaurant.jpg");
    
 }
 .styling{
